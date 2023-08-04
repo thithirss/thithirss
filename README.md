@@ -8,9 +8,9 @@ Hello everybody. My name is Thiago Vicente and I'm 23 years old. I'm currently l
 
 - 📫 How to reach me: thiagovicente2@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=compact icons=true&theme=dark)
 
 
 <a href="https://www.linkedin.com/in/thithirs/">
