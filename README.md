@@ -10,6 +10,7 @@ Hello everybody. My name is Thiago Vicente and I'm 23 years old. I'm currently l
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 
 <a href="https://www.linkedin.com/in/thithirs/">
