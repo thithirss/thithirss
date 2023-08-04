@@ -8,6 +8,9 @@ Hello everybody. My name is Thiago Vicente and I'm 23 years old. I'm currently l
 
 - 📫 How to reach me: thiagovicente2@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=compact)
+
 
 <a href="https://www.linkedin.com/in/thithirs/">
   <img alt="Thiago LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,8 +21,7 @@ Hello everybody. My name is Thiago Vicente and I'm 23 years old. I'm currently l
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=compact)
+
 
 
 <!--
