@@ -42,3 +42,6 @@
 <a href="https://www.linkedin.com/in/thithirs/">
   <img alt="Thiago LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<img src="https://raw.githubusercontent.com/thithirss/thithirss/output/snake.svg" alt="Snake animation" />
+
