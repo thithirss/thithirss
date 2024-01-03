@@ -1,4 +1,9 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
+![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/thithirss/thithirss/assets/92064189/e4c6720a-8f62-42e8-bef7-73a0376e2b90)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Thiago Vicente</h1>
 <h3 align="center">I am a full stack developer resident in Brazil, I am passionate about programming, I like to spend hours coding, challenges, learning new languages ​​and always evolving</h3>
 
