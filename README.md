@@ -1,51 +1,82 @@
+<div align="center">
+  <img src="https://github.com/thithirss/thithirss/assets/92064189/e4c6720a-8f62-42e8-bef7-73a0376e2b90" alt="Banner de Thiago Vicente" width="100%" />
 
-![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/thithirss/thithirss/assets/92064189/e4c6720a-8f62-42e8-bef7-73a0376e2b90)
+  <h1>Olá, eu sou Thiago Vicente 👋</h1>
+  <h3>Desenvolvedor Full Stack • Aplicações web e mobile • Belo Horizonte, Brasil</h3>
 
+  <a href="https://www.linkedin.com/in/thithirs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://personal-portifolio-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:thiagovicente2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
 
+## Sobre mim
 
+Sou desenvolvedor Full Stack na **Xappa**, criando e mantendo aplicações web e mobile que resolvem problemas reais de negócio. Atuo do frontend ao backend, com foco em interfaces responsivas, APIs, integrações, autenticação, notificações e publicação de produtos.
 
-<h1 align="center">Hi 👋, I'm Thiago Vicente</h1>
-<h3 align="center">I am a full stack developer resident in Brazil, I am passionate about programming, I like to spend hours coding, challenges, learning new languages ​​and always evolving</h3>
+- 💼 Experiência profissional com **Vue.js, Nuxt, Laravel, Firebase e aplicações híbridas**
+- 🚀 Desenvolvimento de produtos completos, do painel administrativo à experiência do usuário
+- 📱 Aplicativos com **Capacitor e Cordova**, incluindo recursos nativos e notificações push
+- 🛠️ Manutenção, evolução e integração de sistemas em produção
+- 🎵 Curiosidade: antes da tecnologia, também fui professor de música
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thithirss&label=Profile%20views&color=0e75b6&style=flat" alt="thithirss" /> </p>
+## Tecnologias e competências
 
-- 🔭 I’m currently working on [SiteMake](https://github.com/thithirss/SiteMake)
+### Frontend
 
-- 🌱 I’m currently learning **React, Java, Angular, MongoDB**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 
-- 👯 I’m looking to collaborate on [GELP](https://github.com/thithirss/GELP)
+### Backend, dados e integrações
 
-- 🤝 I’m looking for help with [PDV project](...)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs_REST-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [https://thithirs.netlify.app/](https://thithirs.netlify.app/)
+### Mobile e ferramentas
 
-- 📝 I regularly write articles on [coursera.com](coursera.com)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Apache Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-- 💬 Ask me about **Java, HTML, CSS**
+## Projetos em destaque
 
-- 📫 How to reach me **thiagovicente2@gmail.com**
+- **[Deliveros](https://deliveros.com.br/)** — plataforma comercial de cardápio digital e gestão de pedidos que desenvolvo e comercializo.
+- **[Portfólio profissional](https://personal-portifolio-weld.vercel.app/)** — apresentação da minha experiência, serviços e projetos publicados.
+- **[Velha Braba](https://velha-psi.vercel.app/)** — jogo da velha publicado na web.
+- **[AgileIA](https://github.com/thithirss/AgileIA)** — projeto em TypeScript voltado a soluções com inteligência artificial.
 
-- 📄 Know about my experiences [https://thithirs.netlify.app/](https://thithirs.netlify.app/)
+## Minhas contribuições
 
-- ⚡ Fun fact **I was once a music teacher**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thithirss/thithirss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thithirss/thithirss/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições de Thiago Vicente" src="https://raw.githubusercontent.com/thithirss/thithirss/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thithirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thithirs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thithirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thithirs" height="30" width="40" /></a>
-<a href="https://instagram.com/thithirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thithirs" height="30" width="40" /></a>
-<a href="/https://thithirs.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thithirs.netlify.app/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thithirss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithirss&layout=donut-vertical&theme=dark)
-
-
-<a href="https://www.linkedin.com/in/thithirs/">
-  <img alt="Thiago LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
+<div align="center">
+  <strong>Aberto a projetos, parcerias e novas oportunidades.</strong><br />
+  Entre em contato pelo <a href="mailto:thiagovicente2@gmail.com">e-mail</a> ou pelo <a href="https://www.linkedin.com/in/thithirs/">LinkedIn</a>.
+</div>
